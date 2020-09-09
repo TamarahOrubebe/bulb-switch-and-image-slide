@@ -1,6 +1,7 @@
 
 
 
+
 # DOM Manipulation
 
 ![Project Image](./images/dom.png)
